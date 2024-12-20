@@ -15,7 +15,7 @@ Welcome to the Hotel Management System, a comprehensive solution designed to str
 Use the default administrator credentials:
 Username: admin
 Password: password
-(Ensure to change these credentials after the first login for security purposes.)
+
 - **Navigate the Dashboard:**
 Access various modules such as Room Booking, Customer Management, and Billing through the dashboard.
 - **Manage Bookings:**
