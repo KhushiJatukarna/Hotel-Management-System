@@ -4,34 +4,34 @@ Welcome to the Hotel Management System, a comprehensive solution designed to str
 
 ## Features
 
-- *Room Booking:* Manage room reservations with ease.
-- *Customer Management:* Maintain detailed records of customers.
-- *Room Status Tracking:* Monitor room availability and status.
-- *Billing System:* Generate invoices and manage payments.
-- *User Authentication:* Secure login system for staff and administrators.
+- **Room Booking:** Manage room reservations with ease.
+- **Customer Management:** Maintain detailed records of customers.
+- **Room Status Tracking:** Monitor room availability and status.
+- **Billing System:** Generate invoices and manage payments.
+- **User Authentication:** Secure login system for staff and administrators.
 
-##Usage
-- *Login:*
+## Usage
+- **Login:**
 Use the default administrator credentials:
 Username: admin
 Password: password
 (Ensure to change these credentials after the first login for security purposes.)
-- *Navigate the Dashboard:*
+- **Navigate the Dashboard:**
 Access various modules such as Room Booking, Customer Management, and Billing through the dashboard.
--*Manage Bookings:*
+-**Manage Bookings:**
 Add, update, or cancel room reservations.
 Check room availability in real-time.
--*Customer Records:*
+-**Customer Records:**
 Add new customer information.
 View and edit existing customer details.
--*Billing:*
+-**Billing:**
 Generate invoices for completed stays.
 Record payments and manage outstanding balances.
 
 ## Technologies Used
 
-- *Java:* Core application logic.
-- *Java Swing:* User interface design.
-- *MySQL:* Database management.
-- *NetBeans:* Integrated Development Environment (IDE).
+- **Java:** Core application logic.
+- **Java Swing:** User interface design.
+- **MySQL:** Database management.
+- **NetBeans:** Integrated Development Environment (IDE).
 
