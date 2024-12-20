@@ -18,13 +18,13 @@ Password: password
 (Ensure to change these credentials after the first login for security purposes.)
 - **Navigate the Dashboard:**
 Access various modules such as Room Booking, Customer Management, and Billing through the dashboard.
--**Manage Bookings:**
+- **Manage Bookings:**
 Add, update, or cancel room reservations.
 Check room availability in real-time.
--**Customer Records:**
+- **Customer Records:**
 Add new customer information.
 View and edit existing customer details.
--**Billing:**
+- **Billing:**
 Generate invoices for completed stays.
 Record payments and manage outstanding balances.
 
